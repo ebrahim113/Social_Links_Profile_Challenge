@@ -1,0 +1,18 @@
+:root {}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: ;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
